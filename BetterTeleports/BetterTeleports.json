@@ -1,0 +1,13 @@
+{
+  "Author": "Muko Starbinder",
+  "Name": "Better Teleports",
+  "Punchline": "Teleports but better.",
+  "Description": "A fancy new teleport menu!",
+  "InternalName": "betterTeleports",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ]
+}
